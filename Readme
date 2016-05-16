@@ -1,0 +1,10 @@
+Only a test program for a whole system!
+
+Contains:
+1 Tcp_client for getting the PLC data
+2 Sqlite for storing the data
+
+3 Uart for getting data
+4 Can for driving the Can bus and getting data
+
+test
